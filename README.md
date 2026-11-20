@@ -27,12 +27,7 @@
 3. Open its `README.md` and replace the availability message with links to those files. Use relative links such as `[Workshop slides (PDF)](./workshop-slides.pdf)`. File names are case-sensitive. Use hyphens in new filenames to keep links simple.
 4. Commit the files and README to `main`. The homepage links to the folder, so material updates need only happen there.
 
-## Publish on GitHub Pages
-
-Create a public repository called `love-methods-week-2027` in the `tombernr` account, then push the contents of this directory to its `main` branch, including `.nojekyll`. In **Settings → Pages**, choose **Deploy from a branch**, select **main** and **/(root)**, then select **Save**. See [GitHub's publishing instructions](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site).
-
 ## Programme source
 
-The homepage follows the embedded Google Calendar on the [official programme](https://excelscior.uc.pt/love-methods-week-2027/), as viewed on 20 November 2026. The separate registration section names “Evidence Synthesis: Types, Reproducibility, Best Practices and the Role of AI” for Friday, while the calendar shows two sessions with other titles. Check with the organisers before adding an entry for the registration listing or treating it as a renamed session. To update the programme, edit `index.html` and the relevant event README.
-
+The homepage follows the embedded Google Calendar on the [official programme](https://excelscior.uc.pt/love-methods-week-2027/), as viewed on 20 November 2026. To update the programme, edit `index.html` and the relevant event README.
 Event logo from the [official EXCELScIOR programme](https://excelscior.uc.pt/love-methods-week-2027/).
