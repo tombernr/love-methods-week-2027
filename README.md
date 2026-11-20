@@ -4,14 +4,14 @@
 
 ## Event folders
 
-- [Reporting Guidelines - flipped](./events/25-reporting-guidelines/)
+- [Reporting Guidelines-flipped](./events/25-reporting-guidelines/)
 - [We love RRIDs, and we will spend some time to show you why](./events/25-rrids/)
 - [Reducing experimental bias in preclinical studies](./events/26-reducing-experimental-bias/)
 - [Using the PRO-MaP guidelines to improve the clarity of methods and protocols in the life sciences](./events/26-pro-map-guidelines/)
 - [Sample size and power calculations with R and G*Power](./events/26-sample-size-and-power/)
 - [Digital note taking with Obsidian for Scientists](./events/26-obsidian/)
 - [Rigorous experiments and clear communication with the Experimental Design Assistant](./events/27-experimental-design-assistant/)
-- [Write My protocol Tracey/René](./events/27-write-my-protocol/)
+- [Write My protocol](./events/27-write-my-protocol/)
 - [A Guide to Replication Studies](./events/27-replication-studies/)
 - [Preregistration: Status Quo and Best Practices](./events/28-preregistration/)
 - [Quarto for Reproducible Manuscripts](./events/28-quarto/)
